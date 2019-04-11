@@ -8,7 +8,7 @@ int main(void)
 
    int second=0;
 
-    printf("您的輸入的秒數：");
+    printf("請輸入秒數：");
 
     scanf("%d",&second);
 
